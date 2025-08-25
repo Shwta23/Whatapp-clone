@@ -13,3 +13,5 @@ Typing area with emoji, file, and send icons
 Timestamp and chat bubbles styled like WhatsApp
 
 Responsive design for mobile and desktop views
+
+![whatapp](https://github.com/Shwta23/Whatapp-clone/blob/main/whatapp.png)
